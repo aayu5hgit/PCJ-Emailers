@@ -5,3 +5,7 @@
 3. [Order Shipment Emailer](https://github.com/aayu5hgit/PCJ-Emailers/blob/main/OrderShipmentEmailer.html)
 4. [Order Out for Delivery Emailer](https://github.com/aayu5hgit/PCJ-Emailers/blob/main/OrderOutForDelivery.html)
 5. [Order Delivered Emailer](https://github.com/aayu5hgit/PCJ-Emailers/blob/main/OrderDelivered.html)
+
+### Payment Emailers
+1. [Payment Failure Emailer](https://github.com/aayu5hgit/PCJ-Emailers/blob/main/PaymentFailureEmailer.html)
+2. [Pay Now with Link Emailer](https://github.com/aayu5hgit/PCJ-Emailers/blob/main/PaymentFailureEmailer.html)
